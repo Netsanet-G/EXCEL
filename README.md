@@ -1,2 +1,3 @@
 # EXCEL
 Pivot Tables, Conditional Formatting, XLOOKUP, Charts, Cleaning Data, projects...
+[Pivot Tables.xlsx](https://github.com/Netsanet-G/EXCEL/files/14305301/Pivot.Tables.xlsx)
